@@ -16,7 +16,7 @@ See [requirements](#requirements) if you aren't sure whether you have this.
 
 1. Extract the files and put them in your Vim directory,
    (usually `~/.vim/` or `Program Files/Vim/vimfiles` on Windows).
-   将autoload和plugin放在~/.vim目录下。
+   将neocomplete.vim下autoload和plugin放在~/.vim目录下。
 2. Execute the `:NeoCompleteEnable` command or set `let g:neocomplete#enable_at_startup = 1`
    in your `.vimrc` (**not** in `.gvimrc` or `_gvimrc`!)
 
